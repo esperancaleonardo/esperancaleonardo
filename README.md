@@ -14,7 +14,7 @@ Atualmente cursando Tecnologia em Desenvolvimento de Sistemas (TDS) pelo Unisale
 ### Sobre Minhas Atividades
 
 - 🔭 Atualmente Trabalhando com BI e Projetos DataScience/WebCrawling 
-- 🌱 APIs e Backend em Python, Desenvolvimento Backend Web PHP, Oracle Cloud
+- 🌱 APIs e Backend em Python, Desenvolvimento Backend Web PHP, Oracle Cloud Infrastructure
 - 👯 Quero colaborar em OpenSources de Python como backend
 - ⚡ Fun fact: Já tenho mais de 100 dias em horas de séries assistidas.
 
