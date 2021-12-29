@@ -19,4 +19,4 @@ Atualmente cursando Tecnologia em Desenvolvimento de Sistemas (TDS) pelo Unisale
 - ⚡ Fun fact: Já tenho mais de 100 dias em horas de séries assistidas.
 
 ### Certificações Obtidas
-[<img align="left" width="100px" src="https://edube.org/uploads/media/default/0001/01/fe527c758cc520e88e435b20c52f842b693db889.png" />](https://verify.openedg.org/?id=k24N.UpMq.P8Xo)
+[<img align="left" width="75px" src="https://edube.org/uploads/media/default/0001/01/fe527c758cc520e88e435b20c52f842b693db889.png" />](https://verify.openedg.org/?id=k24N.UpMq.P8Xo)
