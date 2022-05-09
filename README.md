@@ -20,9 +20,13 @@ Atualmente descobrindo/estudando backend em Python.
 - 👯 Quero colaborar em OpenSources de Python como backend
 - ⚡ Fun fact: Já tenho mais de 100 dias em horas de séries assistidas.
 
-### Certificações Obtidas
-[<img align="left" width="75px" src="https://images.credly.com/size/340x340/images/d8017c77-3cc0-4fdf-8e17-62e50632812e/bronze_1_small.png" />](https://www.credly.com/badges/dae593f8-4942-4628-8d1b-a0112bed5aa5/public_url)
-
 ### Eventos que Participei
 
 - NLW 2022 - Rocketseat - Trilhas Origin e Impulse
+
+
+### Certificações Obtidas
+[<img align="left" width="70px" src="https://images.credly.com/size/340x340/images/d8017c77-3cc0-4fdf-8e17-62e50632812e/bronze_1_small.png" />](https://www.credly.com/badges/dae593f8-4942-4628-8d1b-a0112bed5aa5/public_url)
+
+
+
