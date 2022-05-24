@@ -15,6 +15,7 @@ Atualmente descobrindo/estudando backend em Python.
 ### Eventos que Participei
 
 - NLW 2022 - Rocketseat - Trilhas Origin e Impulse
+- Imersao Dados 4 - Alura - 2022
 
 
 ### Minhas Redes (sociais):
