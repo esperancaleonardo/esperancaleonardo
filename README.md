@@ -17,6 +17,9 @@ Atualmente descobrindo/estudando backend em Python.
 - NLW 2022 - Rocketseat - Trilhas Origin e Impulse
 - Imersao Dados 4 - Alura - 2022
 - Full Stack Challenge - Codar.me - 2022
+- Multi Stack Week - Python - TreinaWeb - 2022
+- Maratona Explorer - Rocketseat - 2022
+- Iniciativa DevOps - Kubedev - 2022
 
 
 ### Minhas Redes (sociais):
