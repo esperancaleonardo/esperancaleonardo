@@ -29,8 +29,6 @@ Atualmente descobrindo/estudando backend em Python.
 <br>
 
 
-### Certificações Obtidas
-[<img align="left" width="70px" src="https://images.credly.com/size/340x340/images/d8017c77-3cc0-4fdf-8e17-62e50632812e/bronze_1_small.png" />](https://www.credly.com/badges/dae593f8-4942-4628-8d1b-a0112bed5aa5/public_url)
 
 
 ### Conhecimentos
@@ -52,5 +50,9 @@ Atualmente descobrindo/estudando backend em Python.
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a>
+
+### Certificações Obtidas
+[<img align="left" width="70px" src="https://images.credly.com/size/340x340/images/d8017c77-3cc0-4fdf-8e17-62e50632812e/bronze_1_small.png" />](https://www.credly.com/badges/dae593f8-4942-4628-8d1b-a0112bed5aa5/public_url)
+
 
 
