@@ -8,7 +8,7 @@ Atualmente descobrindo/estudando backend em Python.
 ### Sobre Minhas Atividades
 
 - 👨‍💻 Atualmente Trabalhando com BI e Projetos DataScience/WebCrawling 
-- 🐍🐘 APIs e Backend em Python, Desenvolvimento Backend Web PHP e React
+- 🐍🐘 APIs e Backend em Python, Desenvolvimento Backend Web PHP e  Frontend em React
 - 🍕 Fun fact: Já tenho mais de 100 dias em horas de séries assistidas.
 
 ### Eventos que Participei
